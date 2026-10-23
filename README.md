@@ -255,7 +255,7 @@ churn_flag = model.predict(new_customers)
 ## 🎥 Video Walkthrough
 
 <!-- Replace with your Google Drive / unlisted YouTube URL -->
-▶️ **[Watch the project explanation]([PASTE-YOUR-VIDEO-URL-HERE](https://drive.google.com/file/d/1MojM7i-PZyK-p-iAo1so1algevSiEPvG/view?usp=drive_link))**
+▶️ **[Watch the project explanation](https://drive.google.com/file/d/1MojM7i-PZyK-p-iAo1so1algevSiEPvG/view?usp=drive_link)**
 
 ---
 
