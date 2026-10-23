@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Telco Customer Churn animated header"/>
+<img src="assets/header.svg" width="100%" alt="header.svg"/>
 
 <a href="https://github.com/YOUR-USERNAME/telco-churn-supervised-learning">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=Who+will+leave+next%3F+Let+the+model+tell+you+%F0%9F%94%AE;SMOTE+on+train+only+%E2%80%94+zero+test+leakage+%E2%9A%96%EF%B8%8F;GaussianNB+%7C+Decision+Tree+%7C+KNN+%7C+SVM+%F0%9F%A4%96;From+prediction+to+retention+action+%F0%9F%93%9E" alt="Typing animation"/>
