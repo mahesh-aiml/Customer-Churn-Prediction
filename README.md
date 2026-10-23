@@ -255,13 +255,13 @@ churn_flag = model.predict(new_customers)
 ## 🎥 Video Walkthrough
 
 <!-- Replace with your Google Drive / unlisted YouTube URL -->
-▶️ **[Watch the 5–10 minute project explanation](PASTE-YOUR-VIDEO-URL-HERE)**
+▶️ **[Watch the project explanation]([PASTE-YOUR-VIDEO-URL-HERE](https://drive.google.com/file/d/1MojM7i-PZyK-p-iAo1so1algevSiEPvG/view?usp=drive_link))**
 
 ---
 
 <div align="center">
 
-**Made with ❤️, Python and scikit-learn**
+**Made with ❤️, Mahesh Lohar**
 
 ⭐ Star the repo if it helped you!
 
